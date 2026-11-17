@@ -210,7 +210,7 @@ export default function App() {
    Change these two colours to make the app yours.
    ============================================================ */
 
-const accent = '#2563eb'; // main colour: name, links, active tab
+const accent = '#f51795'; // main colour: name, links, active tab
 const accentLight = '#e0e7ff'; // light version: tag backgrounds
 
 const styles = StyleSheet.create({
